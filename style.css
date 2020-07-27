@@ -1,0 +1,16 @@
+body{
+    text-align: center;
+    background-color: cornflowerblue;
+}
+
+.btn{
+    background-color: black;
+    color: rgb(255, 255, 255);
+    border-radius: 5px;
+    margin-right: 7em;
+    size: 2em;
+}
+
+.allo{
+    margin-top: 6em
+     }
